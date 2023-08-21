@@ -1,5 +1,7 @@
 # fanshawe_college_project_anand
 
+WNR project received 20230820
+
 1:Anand Krishna Shiju
 2:Alone
 3:Navigation links are grouped together, aligned properly, several font families are used in the code.
